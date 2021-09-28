@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-custstgacct--naveenjacobs-naveengen2",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/dad2882e-fceb-46a6-bd7f-9efea7c55568/resourceGroups/TrainingRG/providers/Microsoft.Storage/storageAccounts/naveengen2",
+		"groupId": "dfs",
+		"fqdns": [
+			"naveengen2.dfs.core.windows.net"
+		]
+	}
+}

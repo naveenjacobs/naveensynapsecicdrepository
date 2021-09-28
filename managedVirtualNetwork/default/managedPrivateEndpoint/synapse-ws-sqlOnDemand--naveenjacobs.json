@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sqlOnDemand--naveenjacobs",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/dad2882e-fceb-46a6-bd7f-9efea7c55568/resourceGroups/TrainingRG/providers/Microsoft.Synapse/workspaces/naveenjacobs",
+		"groupId": "sqlOnDemand",
+		"fqdns": [
+			"naveenjacobs-ondemand.567692f7-f625-433c-8ff0-0e1cc99832ee.sql.azuresynapse.net"
+		]
+	}
+}
